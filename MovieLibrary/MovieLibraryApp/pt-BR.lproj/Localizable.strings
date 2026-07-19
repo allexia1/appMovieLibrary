@@ -1,0 +1,39 @@
+/* Abas */
+"movies.tab.title" = "Filmes";
+"favorites.tab.title" = "Favoritos";
+
+/* Lista de filmes */
+"movies.search.placeholder" = "Buscar filmes";
+"movies.empty.title" = "Nenhum filme encontrado";
+"movies.empty.subtitle" = "Tente buscar por outro título.";
+
+/* Favoritos */
+"favorites.empty.title" = "Nenhum favorito ainda";
+"favorites.empty.subtitle" = "Toque no coração de um filme para adicioná-lo aos favoritos.";
+
+/* Detalhe do filme */
+"movieDetail.rating.title" = "Nota";
+"movieDetail.genres.title" = "Gêneros";
+"movieDetail.overview.title" = "Sinopse";
+"movieDetail.readMore" = "ler mais";
+"movieDetail.readLess" = "ler menos";
+
+/* Comuns */
+"common.ok" = "OK";
+"common.retry" = "Tentar novamente";
+"common.error.title" = "Ops, algo deu errado";
+
+/* Favoritar */
+"movie.favorite.add" = "Adicionar aos favoritos";
+"movie.favorite.remove" = "Remover dos favoritos";
+"movie.cell.accessibilityLabel" = "%@, nota %@";
+
+/* Erros de listagem de filmes (usados por MovieListRequestError) */
+"errors.movieList.invalidRequest" = "Não foi possível montar a requisição. Tente novamente.";
+"errors.movieList.notFound" = "Filme não encontrado.";
+"errors.movieList.serverError" = "O servidor da TMDB retornou um erro. Tente novamente mais tarde.";
+"errors.movieList.noInternetConnection" = "Sem conexão com a internet. Verifique sua rede e tente novamente.";
+"errors.movieList.timeout" = "A requisição demorou demais para responder. Tente novamente.";
+"errors.movieList.cancelled" = "A requisição foi cancelada.";
+"errors.movieList.decodingFailed" = "Não foi possível interpretar a resposta do servidor.";
+"errors.movieList.unknown" = "Ocorreu um erro inesperado. Tente novamente.";
